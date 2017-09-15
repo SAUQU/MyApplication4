@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "418455648035",
+    "firebase_url": "https://myapplication3-97624.firebaseio.com",
+    "project_id": "myapplication3-97624",
+    "storage_bucket": "myapplication3-97624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418455648035:android:eab89f1bba0e2631",
+        "android_client_info": {
+          "package_name": "com.viralandroid.instagramloginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418455648035-q1kva9up5qvaul7f2aeuq7ikpeukq9h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viralandroid.instagramloginscreen",
+            "certificate_hash": "12cafd777fd6cb1e02eb5daa7bb0bfd02b73cd80"
+          }
+        },
+        {
+          "client_id": "418455648035-hrrbufse0dfte3jkreic2h619dibd1p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjcyAxciOtip-id36uzfw43c9ckTFFjRk"
+        },
+        {
+          "current_key": "AIzaSyDDF5ctMg4qOkfK0EmRTpLc0j_LLF_72Jo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418455648035-hrrbufse0dfte3jkreic2h619dibd1p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
