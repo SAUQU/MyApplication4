@@ -1,21 +1,52 @@
 {
   "project_info": {
-    "project_number": "418455648035",
-    "firebase_url": "https://myapplication3-97624.firebaseio.com",
-    "project_id": "myapplication3-97624",
-    "storage_bucket": "myapplication3-97624.appspot.com"
+    "project_number": "775329223429",
+    "firebase_url": "https://myapplication3-2f235.firebaseio.com",
+    "project_id": "myapplication3-2f235",
+    "storage_bucket": "myapplication3-2f235.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:418455648035:android:eab89f1bba0e2631",
+        "mobilesdk_app_id": "1:775329223429:android:add330d92bfe5755",
+        "android_client_info": {
+          "package_name": "com.example.segundoauqui.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775329223429-dv0spi4kt8226g80b4j78m487hfhnoo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvUtMOVQGVdXGtw0oP8lL_74k_D7HdfE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775329223429:android:eab89f1bba0e2631",
         "android_client_info": {
           "package_name": "com.viralandroid.instagramloginscreen"
         }
       },
       "oauth_client": [
         {
-          "client_id": "418455648035-q1kva9up5qvaul7f2aeuq7ikpeukq9h0.apps.googleusercontent.com",
+          "client_id": "775329223429-2422qr10v7h6lpaf2q0pjru3pm1u3ltq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.viralandroid.instagramloginscreen",
@@ -23,16 +54,13 @@
           }
         },
         {
-          "client_id": "418455648035-hrrbufse0dfte3jkreic2h619dibd1p8.apps.googleusercontent.com",
+          "client_id": "775329223429-dv0spi4kt8226g80b4j78m487hfhnoo5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDjcyAxciOtip-id36uzfw43c9ckTFFjRk"
-        },
-        {
-          "current_key": "AIzaSyDDF5ctMg4qOkfK0EmRTpLc0j_LLF_72Jo"
+          "current_key": "AIzaSyAdvUtMOVQGVdXGtw0oP8lL_74k_D7HdfE"
         }
       ],
       "services": {
@@ -43,7 +71,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "418455648035-hrrbufse0dfte3jkreic2h619dibd1p8.apps.googleusercontent.com",
+              "client_id": "775329223429-dv0spi4kt8226g80b4j78m487hfhnoo5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
